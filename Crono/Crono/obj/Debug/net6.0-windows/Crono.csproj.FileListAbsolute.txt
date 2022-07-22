@@ -1,0 +1,17 @@
+C:\Users\gomez\Source\Repos\Crono\Crono\bin\Debug\net6.0-windows\Crono.exe
+C:\Users\gomez\Source\Repos\Crono\Crono\bin\Debug\net6.0-windows\Crono.deps.json
+C:\Users\gomez\Source\Repos\Crono\Crono\bin\Debug\net6.0-windows\Crono.runtimeconfig.json
+C:\Users\gomez\Source\Repos\Crono\Crono\bin\Debug\net6.0-windows\Crono.dll
+C:\Users\gomez\Source\Repos\Crono\Crono\bin\Debug\net6.0-windows\Crono.pdb
+C:\Users\gomez\Source\Repos\Crono\Crono\obj\Debug\net6.0-windows\Crono.csproj.AssemblyReference.cache
+C:\Users\gomez\Source\Repos\Crono\Crono\obj\Debug\net6.0-windows\Crono.Form1.resources
+C:\Users\gomez\Source\Repos\Crono\Crono\obj\Debug\net6.0-windows\Crono.csproj.GenerateResource.cache
+C:\Users\gomez\Source\Repos\Crono\Crono\obj\Debug\net6.0-windows\Crono.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gomez\Source\Repos\Crono\Crono\obj\Debug\net6.0-windows\Crono.AssemblyInfoInputs.cache
+C:\Users\gomez\Source\Repos\Crono\Crono\obj\Debug\net6.0-windows\Crono.AssemblyInfo.cs
+C:\Users\gomez\Source\Repos\Crono\Crono\obj\Debug\net6.0-windows\Crono.csproj.CoreCompileInputs.cache
+C:\Users\gomez\Source\Repos\Crono\Crono\obj\Debug\net6.0-windows\Crono.dll
+C:\Users\gomez\Source\Repos\Crono\Crono\obj\Debug\net6.0-windows\refint\Crono.dll
+C:\Users\gomez\Source\Repos\Crono\Crono\obj\Debug\net6.0-windows\Crono.pdb
+C:\Users\gomez\Source\Repos\Crono\Crono\obj\Debug\net6.0-windows\Crono.genruntimeconfig.cache
+C:\Users\gomez\Source\Repos\Crono\Crono\obj\Debug\net6.0-windows\ref\Crono.dll
